@@ -1,0 +1,70 @@
+Ronald
+Reagan
+00001
+4423 Crestview Manor
+Indianapolis
+IN
+46241 4342861322
+George
+Bush
+00002
+3292 Lost Creek Road
+Philadelphia
+PA
+19108 6109945389
+Barack
+Obama
+00003
+3295 Agriculture Lane
+Culloden
+WV
+25510 3049933321
+Donald
+Trump
+00004
+3827 Spring Street
+Springfield
+IL
+62701 2177572314
+Bill
+Clinton
+00005
+165 Strother Street
+Birmingham
+AL
+35222 2056108090
+Joe
+Biden
+00006
+2675 Worley Avenue
+Scottsville
+VA
+24590 3172304374
+Madeleine
+Albright
+00007
+3337 Jody Road
+Plymouth
+PA
+19462 6105740843
+Kamala
+Harris
+00008
+296 Dane Street
+Spokane
+WA
+99202 5092942922
+Nancy
+Pelosi
+00009
+4133 West Drive
+Hickory Hills
+NY
+60457 3125205005
+Sandra Day
+O'Connor
+00010
+1432 White Avenue
+Corpus Christi
+TX
+78476 3617018757
